@@ -1,0 +1,13 @@
+Main:
+
+opengl32
+glfw3
+glew32
+glu32
+Boost.Asio
+ImGui opengl2
+
+CalcNode:
+
+OpenCL
+Boost.Asio
