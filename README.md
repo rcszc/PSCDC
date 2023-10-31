@@ -1,5 +1,5 @@
 # PSCDC-1.0A
-面向学校机房搞事情的 LAN_http中心化分布式计算 /滑稽.
+面向学校机房搞事情的GPU中心化分布式计算 /滑稽.
 
 Pomelo Star Studio Centralized Distributed Computing.
 
